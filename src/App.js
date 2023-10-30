@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'; 
 import './App.css';
-import abhiImage from "./Screenshot-_51_.jpeg"; 
+import abhiImage from "Screenshot-_51_.jpeg"; 
 
 function App() {
   const [isMenuOpen, setMenuOpen] = useState(false);
